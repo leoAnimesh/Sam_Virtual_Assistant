@@ -1,0 +1,7 @@
+subprocess.run("pip install pyttsx3",shell=True)
+# subprocess.run("pip install speechrecognition",shell=True)
+# subprocess.run("pip install wikipedia",shell=True)
+# subprocess.run("pip install pyaudio",shell=True)
+# subprocess.run("pip install wolframalpha",shell=True)
+# subprocess.run("pip install pywhatkit",shell=True)
+# subprocess.run("pip install pyautogui",shell=True)
